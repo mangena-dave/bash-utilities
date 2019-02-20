@@ -5,4 +5,3 @@ sudo find ~ -name "*chrome*.desktop" | xargs rm
 #or something like
 sudo find ~ -name "*chrome*.desktop" | xargs gvfs-trash
 #or maybe just save them in a folder or rename them while you make sure
-#this is the problem
